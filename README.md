@@ -54,6 +54,8 @@ git clone https://github.com/2noise/ChatTTS.git
 cd ChatTTS
 pip install -r requirements.txt
 pip install -e .
+
+#cp -r ./tools /workspace/chat_tts_api/backend/tools # 复制工具目录, backend/tools 即是 ChatTTS/tools
 ```
 
 ### 3.依赖
