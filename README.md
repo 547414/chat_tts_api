@@ -31,13 +31,10 @@ ChatTTS的API接口封装，支持HLS流式输出并自动播放，支持多角�
 ```
 
 1.演示视频：
-[演示视频](./example/example.mp4)
-https://github.com/user-attachments/assets/f2e1a634-ebf2-4955-a30a-b5de6f8f7fd9
+[演示视频](https://github.com/user-attachments/assets/f2e1a634-ebf2-4955-a30a-b5de6f8f7fd9)
 
 2.合成音频效果
-[音频效果](./example/example.mp3)
-[example.webm](https://github.com/user-attachments/assets/e592ce46-26ba-4037-bc6d-74126102fae1)
-
+[音频效果](https://github.com/user-attachments/assets/e592ce46-26ba-4037-bc6d-74126102fae1)
 
 # 二、后端
 
