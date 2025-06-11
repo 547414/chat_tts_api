@@ -1,0 +1,7 @@
+**/.idea/
+**/.pytest_cache/
+**/static/
+**/asset/
+**/__pycache__/
+**/dist/
+**/node_modules/

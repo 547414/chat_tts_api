@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.height100 {
+  height: 100%;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.height-100vh {
+  height: 100vh;
+}
+
+.basic {
+  height: 40px;
+}
+
+.icon {
+  position: relative;
+  top: 2px;
+  color: #1c8afa;
+}
+
+.icon-normal-size {
+  font-size: 20px;
+}
+
+.field-icon {
+  position: relative;
+  top: 3px;
+  color: #1c8afa;
+  width: 16px;
+  height: 16px;
+}
+
+.filed-required {
+  color: #ff0000;
+}
+
+.van-svg-icon {
+  position: relative;
+  top: 5px;
+  width: 16px;
+  height: 16px;
+}
